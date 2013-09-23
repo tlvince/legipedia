@@ -1,0 +1,20 @@
+{
+  "name": "legipedia",
+  "version": "0.1.0",
+  "description": "Legible Wikipedia",
+  "main": "app.coffee",
+  "keywords": [
+    "legible",
+    "readability",
+    "wikipedia"
+  ],
+  "author": "Tom Vincent <http://tlvince.com/contact>",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "connect-powered-by": "~0.1.0",
+    "express": "~3.4.0",
+    "request": "~2.27.0",
+    "cheerio": "~0.12.2"
+  }
+}

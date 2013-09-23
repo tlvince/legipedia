@@ -1,0 +1,14 @@
+body {
+  font-size: 125%;
+}
+
+.header, #page-actions {
+  display: none;
+}
+
+@media (min-width: 600px) {
+  body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+}
