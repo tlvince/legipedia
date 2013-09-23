@@ -16,5 +16,12 @@
     "express": "~3.4.0",
     "request": "~2.27.0",
     "cheerio": "~0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tlvince/legipedia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tlvince/legipedia/issues"
   }
 }
