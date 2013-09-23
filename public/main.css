@@ -6,6 +6,10 @@ body {
   display: none;
 }
 
+sup, sub {
+  font-size: 0.6em;
+}
+
 @media (min-width: 600px) {
   body {
     max-width: 600px;
