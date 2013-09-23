@@ -11,7 +11,7 @@ Legible Wikipedia.
 
 ## Example
 
-<https://en.wikipedia.org/wiki/Throffer>
+<https://en.wikipedia.org/wiki/Throffer>  
 <https://legipedia.herokuapp.com/wiki/Throffer>
 
 ## Author
