@@ -7,12 +7,12 @@ Legible Wikipedia.
 1. Browse to a Wikipedia page
 2. Replace everything before the first forward slash with:
 
-        https://legipedia.herokuapp.com
+        http://legipedia.tlvince.com
 
 ## Example
 
 <https://en.wikipedia.org/wiki/Throffer>  
-<https://legipedia.herokuapp.com/wiki/Throffer>
+<http://legipedia.tlvince.com/wiki/Throffer>
 
 ## Author
 
