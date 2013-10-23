@@ -15,7 +15,9 @@
     "connect-powered-by": "~0.1.0",
     "express": "~3.4.0",
     "request": "~2.27.0",
-    "cheerio": "~0.12.2"
+    "cheerio": "~0.12.2",
+    "identify": "~0.1.5",
+    "stylus": "~0.38.0"
   },
   "repository": {
     "type": "git",

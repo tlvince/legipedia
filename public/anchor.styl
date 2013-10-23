@@ -1,0 +1,26 @@
+lighterGrey = #f2f2f2
+lightGrey = #8e8e8e
+
+a
+  &.anchor
+    display none
+    text-decoration none
+    font-weight lighter
+    font-style normal
+    position absolute
+    color lighterGrey
+    &:before
+      content '\00B6' // Pilcrow
+
+h1, h2, h3, h4, h5, h6, p
+  &:hover a.anchor
+    display inline-block
+    margin-left -1em
+    padding-right 0.5em
+    &:hover
+      color lightGrey
+
+blockquote p:hover a.anchor
+  display inline-block
+  margin-left -2.2em
+  padding-right 1.7em
