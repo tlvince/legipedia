@@ -19,6 +19,9 @@
     "identify": "~0.1.5",
     "stylus": "~0.38.0"
   },
+  "scripts": {
+    "start": "coffee server.coffee"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/tlvince/legipedia.git"
