@@ -22,6 +22,9 @@ app.use stylus.middleware build
 app.use express.static build, maxAge: oneDay
 
 # Routes
+app.get '/robots.txt', (req, res) ->
+  res.sendfile 'robots.txt'
+
 app.get '*', (req, res) ->
   url = "https://en.m.wikipedia.org#{req.path}"
   request uri: url, (err, response, body) ->
